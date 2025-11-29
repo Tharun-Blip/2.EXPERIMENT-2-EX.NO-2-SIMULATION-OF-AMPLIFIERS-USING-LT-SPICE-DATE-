@@ -63,7 +63,7 @@ DATE:
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
-<img width="1912" height="473" alt="image" src="https://github.com/user-attachments/assets/fd84b0b8-6d3e-4bb1-930b-66fcbf35c488" />
+<img width="1915" height="468" alt="image" src="https://github.com/user-attachments/assets/6f78c6aa-24ad-4c74-bf2c-bc63fabbefe8" />
 
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
